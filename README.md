@@ -1,1 +1,1 @@
-# Gold code Generator
+# Gold Code Generator
